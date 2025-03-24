@@ -11,6 +11,7 @@ author: "Jorge Vieira"
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Site settings
 title: Plasma Photonics Team
