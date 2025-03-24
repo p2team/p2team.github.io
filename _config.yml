@@ -10,8 +10,8 @@ title: Plasma Photonics Team
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Website of the Plasma Photonics Team.
-baseurl: "https://p2team.github.io"
-url: "/p2-team-web"
+baseurl: ""
+url: ""
 
 include:
   - .htaccess
