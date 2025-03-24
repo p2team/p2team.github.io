@@ -1,0 +1,35 @@
+- name: Xuezhi Wu
+  photo: Xuezhi.png
+  info: Postdoctoral Researcher
+  email: wuxuezhi1997@gmail.com
+  number_educ: 1
+  education1: PhD in Physics Peking University - Peking, China 
+
+- name: Camilla Willim
+  photo: Camilla.jpg
+  info: PhD Student
+  email: camilla.willim@tecnico.ulisboa.pt
+  number_educ: 1
+  education1: MSc in Physics, Heinrich-Heine University - Düsseldorf, Germany
+
+- name: Chiara Badiali
+  photo: Chiara.jpeg
+  info: PhD Student
+  email: chiara.badiali@tecnico.ulisboa.pt
+  number_educ: 1
+  education1: MSc in Physics, Sapienza, University of Rome - Rome, Italy
+
+- name: Rafael Almeida
+  photo: Rafael.jpg
+  info: PhD Student
+  email: rafaelrussoalmeida@tecnico.ulisboa.pt
+  number_educ: 1
+  education1: MSc in Physics Engineering, Instituto Superior Técnico - Lisboa, Portugal
+
+- name: Bhushan Thakur
+  photo: Bhushan.jpeg
+  info: PhD Student
+  email: bhushan.thakur@tecnico.ulisboa.pt
+  number_educ: 1
+  education1: MSc in Accelerator Physics, Université Paris-Saclay - Paris, Saclay
+

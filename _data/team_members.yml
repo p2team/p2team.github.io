@@ -1,0 +1,9 @@
+- name: Jorge Vieira
+  photo: Jorge.jpg
+  info: Associate professor
+  email: jorge.vieira@tecnico.ulisboa.pt
+  number_educ: 4
+  education1: Visiting scholar (2006, 2008) - <a href="https://picksc.physics.ucla.edu">Plasma Simulation Group</a> @ <a href="https://www.ucla.edu"> UCLA</a>
+  education2: PhD in Physics Engineering (2010), <a href="http://golp.ist.utl.pt">GoLP </a> @ <a href="www.tecnico.ulisboa.pt">IST</a>
+  education3: Humboldt Fellow (2012-2013) - <a href="https://www.mpp.mpg.de/en/research/awake">AWAKE group </a> @ <a href="https://www.mpp.mpg.de/en/">Max Planck Institute for Physics</a>
+  education4: FCT Researcher (2016-2018), <a href="http://golp.ist.utl.pt">GoLP </a> @ <a href="www.tecnico.ulisboa.pt">IST</a>

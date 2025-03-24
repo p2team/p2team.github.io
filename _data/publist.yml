@@ -1,0 +1,1071 @@
+- title: "X-ray free-electron lasing in a flying-focus undulator"
+  image:
+  description:
+  authors: D. Ramsey, B. Malaca, T. T. Simpson, M. S. Formanek, L. S. Mack, J. Vieira, D. H. Froula, J. P. Palastro
+  link:
+    url: https://doi.org/10.1038/s42005-025-02028-x
+    display: "Communications Physics 8, 113 (2025)"
+  highlight: 0
+
+
+- title: "Optimizing proton acceleration using hollow laser pulses and a double-layer target: effects of focal spot position and polarization"
+  image:
+  description:
+  authors: C. Willim, L. O. Silva, J. Vieira
+  link:
+    url: https://doi.org/10.1088/1361-6587/ada0dd
+    display: "Plasma Phys. Control. Fusion 67 015027 (2025)"
+  highlight: 0
+
+- title: "Superluminal matter waves"
+  image:
+  description:
+  authors: J.P. Palastro, D. Ramsey, M. Formanek, J. Vieira, A. Di Piazza
+  link:
+    url: https://doi.org/10.1103/PhysRevResearch.6.043075
+    display: "Phys. Rev. Research 6, 043075 (2024)"
+  highlight: 0
+
+- title: "Filamentation of a relativistic proton bunch in plasma"
+  image:
+  description:
+  authors: L Verra et al. (AWAKE collaboration) 
+  link:
+    url: https://doi.org/10.1103/PhysRevE.109.055203
+    display: "Phys. Rev. E 109, 055203 (2024)"
+  highlight: 0
+
+- title: "Analytic pulse technique for computational electromagnetics"
+  image: 
+  description:
+  authors: K. Weichman, K. G. Miller, B. Malaca, W. B. Mori, J.R. Pierce, D. Ramsey, J. Vieira, M. Vranic, J. P. Palastro
+  link:
+    url: https://doi.org/10.1016/j.cpc.2024.109096
+    display: "Computer Phys. Communications 298, 109096 (2024)"
+  highlight: 0
+
+- title: "Hosing of a long relativistic particle bunch in plasma"
+  image:
+  description:
+  authors: T. Nechaeva et al. (AWAKE collaboration)
+  link:
+    url: https://doi.org/10.1103/PhysRevLett.132.075001
+    display: "Phys. Rev. Lett. 132, 075001 (2024)"
+  highlight: 0
+
+- title: "Coherence and superradiance from a plasma-based quasiparticle accelerator"
+  image: quasiparticle-v1.jpg
+  description:
+  authors: B. Malaca, M. Pardal, D. Ramsey, J. Pierce, K. Weichman, I. Andriyash, W. Mori, J. Palastro, R. Fonseca, J. Vieira
+  link:
+    url: https://doi.org/10.1038/s41566-023-01311-z
+    display: "Nature Photonics 18, 39 (2024)"
+  highlight: 1
+
+- title: "Mitigation of the Onset of Hosing in the Linear Regime through Plasma Frequency Detuning"
+  image: hosing-mariana-v2.jpg
+  description:
+  authors: M. Moreira, P. Mugli, J. Vieira
+  link:
+    url: https://doi.org/10.1103/PhysRevLett.130.115001
+    display: "Phys. Rev. Lett. 130, 115001 (2023)"
+  highlight: 1
+
+- title: "Broadband control of topological–spectral correlations in space–time beams"
+  image:
+  description:
+  authors: M. Piccardo, M. de Oliveira, V. Policht, M. Russo, B. Ardini, M. Corti, G. Valentini, J. Vieira, C. Manzoni, G. Cerullo, A. Ambrosio
+  link:
+    url: https://doi.org/10.1038/s41566-023-01223-y
+    display: "Nature Photonics 17, 822–828 (2023)"
+  highlight: 0
+
+- title: "Proton acceleration with intense twisted laser light"
+  image:
+  description:
+  authors: C. Willim, J. Vieira, V. Malka, L. O. Silva
+  link:
+    url: https://doi.org/10.1103/PhysRevResearch.5.023083
+    display: "Phys. Rev. Research 5, 023083 (2023)"
+  highlight: 0
+
+- title: "RaDiO: An efficient spatiotemporal radiation diagnostic for particle-in-cell codes"
+  image: RaDiO-v5.jpg
+  description:
+  authors: M. Pardal, A. Sainte-Marie, A. Reboul-Salze, R.A. Fonseca, J. Vieira
+  link:
+    url: https://doi.org/10.1016/j.cpc.2022.108634
+    display: "Comp. Phys. Communs. 285, 108634 (2023)"
+  highlight: 1
+
+- title: "Arbitrarily structured laser pulses"
+  image:
+  description:
+  authors: J. R. Pierce, J. P. Palastro, F. Li, B. Malaca, D. Ramsey, J. Vieira, K. Weichman, W. B. Mori
+  link:
+    url: https://doi.org/10.1103/PhysRevResearch.5.013085
+    display: "Phys. Rev. Research 5, 013085 (2023)"
+  highlight: 0
+
+- title: "Exact solutions for the electromagnetic fields of a flying focus"
+  image:
+  description:
+  authors: D. Ramsey, A. Di Piazza, M. Formanek, P. Franke, D. H. Froula, B. Malaca, W. B. Mori, J. R. Pierce, T. T. Simpson, J. Vieira, M. Vranic, K. Weichman, J. P. Palastro
+  link:
+    url: https://doi.org/10.1103/PhysRevA.107.013513
+    display: "Phys. Rev. A 107, 013513 (2023)"
+  highlight: 0
+
+- title: "Positron acceleration in plasma waves driven by non-neutral fireball beam"
+  image:
+  description:
+  authors: T. Silva, J. Vieira
+  link:
+    url: https://doi.org/10.1103/PhysRevAccelBeams.26.091301
+    display: "Phys. Rev. AB 26, 091301 (2023)"
+  highlight: 0
+
+- title: "Generation of topologically complex three-dimensional electron beams in a plasma photocathode"
+  image:
+  description:
+  authors: X. Xu, J. Vieira, M. J. Hogan, C. Joshi, W. B. Mori
+  link:
+    url: https://doi.org/10.1103/PhysRevAccelBeams.25.011302
+    display: "Phys. Rev. AB 25, 011302 (2022)"
+  highlight: 0
+
+- title: "Slowdown of interpenetration of two counterpropagating plasma slabs due to collective effects"
+  image:
+  description:
+  authors: N. Shukla, K. Schoeffler, J. Vieira, R. Fonseca, E. Boella, L. O. Silva
+  link:
+    url: https://doi.org/10.1103/PhysRevE.105.035204
+    display: "Phys. Rev. E 105, 035204 (2022)"
+  highlight: 0
+
+- title: "Nonlinear Thomson scattering with ponderomotive control"
+  image:
+  description:
+  authors: D. Ramsey, B. Malaca, A. Di Piazza, M. Formanek, P. Franke, D. H. Froula, M. Pardal, T. T. Simpson, J. Vieira, K. Weichman, J. P. Palastro
+  link:
+    url: https://doi.org/10.1103/PhysRevE.105.065201
+    display: "Phys. Rev. E 105, 065201 (2022)"
+  highlight: 0
+
+- title: "Controlled growth of the self-modulation of a relativistic proton bunch in plasma"
+  image:
+  description:
+  authors: "L. Verra, AWAKE collaboration"
+  link:
+    url: "https://doi.org/10.1103/PhysRevLett.129.024802"
+    display: "Phys. Rev. Lett. 129, 024802 (2022)"
+  highlight: 0
+
+- title: "The AWAKE Run 2 programme and beyond"
+  image:
+  description:
+  authors: "E. Gschwendtner, AWAKE collaboration"
+  link:
+    url: "https://doi.org/10.3390/sym14081680"
+    display: "Symmetry 14, 1680 (2022)"
+  highlight: 0
+
+- title: "Particle acceleration by twisted laser beams"
+  image:
+  description:
+  authors: "J.T. Mendonça, J. Vieira, C. Willim, R. Fedele"
+  link:
+    url: "https://doi.org/10.3389/fphy.2022.995379"
+    display: "Frontiers in Physics 10, 995379 (2022)"
+  highlight: 0
+
+- title: "Twisted Waves near a Plasma Cutoff"
+  image:
+  description:
+  authors: "J.T. Mendonça, C. Willim, J. Vieira"
+  link:
+    url: "https://doi.org/10.3390/sym14010146"
+    display: "Symmetry 14, 146 (2022)"
+  highlight: 0
+
+- title: "Stable Positron Acceleration in Thin, Warm, Hollow Plasma Channels"
+  image: positron-thales-v3.png
+  description:
+  authors: "T. Silva, L. D. Amorim, M. C. Downer, M. J. Hogan, V. Yakimenko, R. Zgadzaj, J. Vieira"
+  link:
+    url: "https://doi.org/10.1103/PhysRevLett.127.104801"
+    display: "Phys. Rev. Lett. 127, 104801 (2021)"
+  highlight: 1
+
+- title: "Transition between instability and seeded self-modulation of a relativistic particle bunch in plasma"
+  image:
+  description:
+  authors: "F. Batsch et al. (AWAKE collaboration)"
+  link:
+    url: "https://doi.org/10.1103/PhysRevLett.126.164802"
+    display: "Phys. Rev. Lett. 126, 164802 (2021)"
+  highlight: 0
+
+- title: "Simulation and experimental study of proton bunch self-modulation in plasma with linear density gradients"
+  image:
+  description:
+  authors: "PIM Guzmán et al (AWAKE collaboration)"
+  link:
+    url: "https://doi.org/10.1103/PhysRevAccelBeams.24.101301"
+    display: "Phys. Rev. AB 24, 101301 (2021)"
+  highlight: 0
+
+- title: "Generalized superradiance for producing broadband coherent radiation"
+  image: generalized-superradiance-v2.jpg
+  description:
+  authors: "J. Vieira, M. Pardal, J.T. Mendonça, R.A. Fonseca"
+  link:
+    url: "https://doi.org/10.1038/s41567-020-0995-5"
+    display: "Nature Physics 17, 99 (2021)"
+  highlight: 1
+
+- title: "Laser-plasma acceleration beyond wave breaking"
+  image:
+  description:
+  authors: "JP Palastro, B. Malaca, J. Vieira, et al"
+  link:
+    url: "https://doi.org/10.1063/5.0036627"
+    display: "Physics of Plasmas 28, 013109 (2021)"
+  highlight: 0
+
+- title: "Magnetized current filaments as a source of circularly polarized light"
+  image:
+  description:
+  authors: "U. Sinha, K.M. Schoeffler, J. Martins, J. Vieira, R.A. Fonseca, L.O. Silva"
+  link:
+    url: "https://doi.org/doi:10.1017/S0022377821000040"
+    display: "Journal of Plasma Phys. 87, 905870114 (2021)"
+  highlight: 0
+
+- title: "Experimental study of extended timescale dynamics of a plasma wakefield driven by a self-modulated proton bunch"
+  image:
+  description:
+  authors: "J. Chappell et al (AWAKE collaboration)"
+  link:
+    url: "https://doi.org/10.1103/PhysRevAccelBeams.24.011301"
+    display: "PRAB 24, 011301 (2021)"
+  highlight: 0
+
+- title: "Dissipation of electron-beam-driven plasma wakes"
+  image:
+  description:
+  authors: "R. Zgadzaj, T. Silva, VK Khudyakov, A. Sosedkin, J. Allen, S. Gessner, Z. Li, M. Litos, J. Vieira, K. Lotov, M. Hogan, V. Yakimenko, M. Downer"
+  link:
+    url: "https://doi.org/10.1038/s41467-020-18490-w"
+    display: "Nature Communs. 11 (2020)"
+  highlight: 0
+
+- title: "New criteria for efficient Raman and Brillouin amplification of laser beams in plasma"
+  image:
+  description:
+  authors: "R. Trines, E. P. Alves, E. Webb, J. Vieira, F. Fiúza, R. A. Fonseca, L. O. Silva, R. A. Cairns, R. Bingham"
+  link:
+    url: "https://doi.org/10.1038/s41598-020-76801-z"
+    display: "Scientific Reports 10, 1 (2020)"
+  highlight: 0
+
+- title: "EuPRAXIA conceptual design report"
+  image:
+  description:
+  authors: "R.W. Assmann et al"
+  link:
+    url: "https://doi.org/10.1140/epjst/e2020-000127-8"
+    display: "The European Physical Journal Special Topics, 229 3675 (2020)"
+  highlight: 0
+
+- title: "Proton Bunch Self-Modulation in Plasma with Density Gradient"
+  image:
+  description:
+  authors: "F. Braunmüller et al (AWAKE collaboration)"
+  link:
+    url: "https://doi.org/10.1103/PhysRevLett.125.264801"
+    display: "Phys. Rev. Lett. 125 264801 (2020)"
+  highlight: 0
+
+- title: "On the use of the envelope model for down-ramp injection in laser-plasma accelerators"
+  image:
+  description:
+  authors: "T. Silva, A. Helm, J. Vieira, R. Fonseca, L. O. Silva"
+  link:
+    url: "https://doi.org/10.1088/1361-6587/ab5298"
+    display: "PPCF 62, 024001 (2020)"
+  highlight: 0
+
+- title: "Anisotropic heating and magnetic field generation due to Raman scattering in laser-plasma interactions"
+  image:
+  description:
+  authors: "T. Silva, K. Schoeffler, J. Vieira, M. Hoshino, R. A. Fonseca, L. O. Silva"
+  link:
+    url: "https://doi.org/10.1103/PhysRevResearch.2.023080"
+    display: "PRR 2, 023080 (2020)"
+  highlight: 0
+
+- title: "Interaction of ultra relativistic e-/e+ fireball beam with plasma"
+  image:
+  description:
+  authors: "N. Shukla, S. F. Martins, P. Muggli, J. Vieira, L. O. Silva"
+  link:
+    url: "https://doi.org/10.1088/1367-2630/ab60f0"
+    display: "New J. Phys. 22, 013030 (2020)"
+  highlight: 0
+
+- title: "Interplay between the Weibel instability and the Biermann battery in realistic laser-solid interactions"
+  image:
+  description:
+  authors: "N. Shukla, K. Schoeffler, E. Boella, J. Vieira, R. Fonseca, L. O. Silva"
+  link:
+    url: "https://doi.org/10.1103/PhysRevResearch.2.023129"
+    display: "PRR 2, 023129 (2020)"
+  highlight: 0
+
+- title: "Experimental study of wakefields driven by a self-modulating proton bunch in plasma"
+  image:
+  description:
+  authors: "M. Turner et al (AWAKE collaboration)"
+  link:
+    url: "https://doi.org/10.1103/PhysRevAccelBeams.23.081302"
+    display: "PR-AB 23, 081302 (2020)"
+  highlight: 0
+
+- title: "Proton beam defocusing in AWAKE: comparison of simulations and measurements"
+  image:
+  description:
+  authors: "A.A. Gorn et al (AWAKE collaboration)"
+  link:
+    url: "https://doi.org/10.1088/1361-6587/abc298"
+    display: "Plasma Phys. Control. Fusion 62 125023 (2020)"
+  highlight: 0
+
+- title: "Self-focusing of multiple interacting Laguerre-Gauss beams in Kerr media"
+  image:
+  description:
+  authors: "L. Sá, J. Vieira"
+  link:
+    url: "https://doi.org/10.1103/PhysRevA.100.013836"
+    display: "Phys. Rev. A 100, 013836 (2019)"
+  highlight: 0
+
+- title: "Radiation emission in laser-wakefields driven by structured laser pulses with orbital angular momentum"
+  image:
+  description:
+  authors: "J.L. Martins, J. Vieira, J. Ferri, T. Fülöp"
+  link:
+    url: "https://doi.org/10.1038/s41598-019-45474-8"
+    display: "Sci. Rep. 9, 9840 (2019)"
+  highlight: 0
+
+- title: "Flying focus: Spatial and temporal control of intensity for laser-based applications"
+  image:
+  description:
+  authors: "D. Froula, J. P. Palastro, D. Turnbull, A. Davies, L. Nguyen, A. Howard, D. Ramsey, P. Franke, S.-W. Bahk, I. A. Begishev, R. Boni, J. Bromage, S. Bucht, R. K. Follett, D. Haberberger, G. W. Jenkins, J. Katz, T. J. Kessler, J. L. Shaw, J. Vieira"
+  link:
+    url: "https://doi.org/10.1063/1.5086308"
+    display: "Phys. Plasmas 26, 032109 (2019)"
+  highlight: 0
+
+- title: "Mechanisms for the mitigation of the hose instability in plasma-wakefield accelerators"
+  image:
+  description:
+  authors: "T. Mehrling, R. A. Fonseca, A. Martinez de la Ossa, and J. Vieira"
+  link:
+    url: "https://doi.org/10.1103/PhysRevAccelBeams.22.031302"
+    display: "Phys. Rev. AB 22, 031302 (2019)"
+  highlight: 0
+
+- title: "Influence of proton bunch parameters on a proton-driven plasma wakefield acceleration experiment"
+  image:
+  description:
+  authors: "M. Moreira, J. Vieira, P. Muggli"
+  link:
+    url: "https://doi.org/10.1103/PhysRevAccelBeams.22.031301"
+    display: "Phys. Rev. AB 22, 031301 (2019)"
+  highlight: 0
+
+- title: "Experimental observation of wakefield growth driven by the seeded SM of a p+bunch"
+  image:
+  description:
+  authors: "M. Turner et al (AWAKE collaboration)"
+  link:
+    url: "https://doi.org/10.1103/PhysRevLett.122.054801"
+    display: "PRL 122, 054801 (2019)"
+  highlight: 0
+
+- title: "Experimental observation of proton bunch modulation in a plasma"
+  image:
+  description:
+  authors: "E. Adli et al (AWAKE collaboration)"
+  link:
+    url: "https://doi.org/10.1103/PhysRevLett.122.054802"
+    display: "Phys. Rev. Lett. 122, 054802 (2019)"
+  highlight: 0
+
+- title: "Proton-driven plasma wakefield acceleration in AWAKE"
+  image:
+  description:
+  authors: "E. Adli et al (AWAKE collaboration)"
+  link:
+    url: "https://doi.org/10.1098/rsta.2018.0418"
+    display: "Phil. Trans. Royal S.-A. 377: 20180418 (2019)"
+  highlight: 0
+
+- title: "Acceleration of electrons in the plasma wakefield of a proton bunch"
+  image:
+  description:
+  authors: "E. Adli et al. (AWAKE collaboration)"
+  link:
+    url: "https://doi.org/10.1038/s41586-018-0485-4"
+    display: "Nature 561, 363–367 (2018)"
+  highlight: 0
+
+- title: "Optical control of the topology of laser-plasma accelerators"
+  image: oam-wake-v1.jpg
+  description:
+  authors: "J. Vieira, J.T. Mendonça, F. Quéré"
+  link:
+    url: "https://doi.org/10.1103/PhysRevLett.121.054801"
+    display: "Physical Review Letters 121 054801 (2018)"
+  highlight: 1
+
+- title: "Magnetic field generation in plasma waves driven by copropagating intense twisted lasers"
+  image:
+  description:
+  authors: "Y. Shi, J. Vieira, R.G.M. Trines, R. Bingham, B. Shen, R. Kingham"
+  link:
+    url: "https://doi.org/10.1103/PhysRevLett.121.145002"
+    display: "Physical Review Letters (accepted, 2018)"
+  highlight: 0
+
+- title: "Signatures of the self-modulation instability of relativistic proton bunches in the AWAKE experiment"
+  image:
+  description:
+  authors: "M. Moreira, J. Vieira, P. Muggli"
+  link:
+    url: "https://doi.org/10.1016/j.nima.2018.03.014"
+    display: "Nuclear Instruments and Methods in Physics Research Section A 909 343 (2018)"
+  highlight: 0
+
+- title: "Plasmon excitations with a semi-integer angular momentum"
+  image:
+  description:
+  authors: "J.T. Mendonça, A. Serbeto, J. Vieira"
+  link:
+    url: "https://doi.org/10.1038/s41598-018-26196-9"
+    display: "Scientific Reports 8 7817 (2018)"
+  highlight: 0
+
+- title: "Conditions for the onset of the current filamentation instability in the laboratory"
+  image:
+  description:
+  authors: "N. Shukla, J. Vieira, P. Muggli, G. Sarri, R. A. Fonseca, L.O. Silva"
+  link:
+    url: "https://doi.org/10.1017/S0022377818000314"
+    display: "Journal of Plasma Physics 84 905840302 (2018)"
+  highlight: 0
+
+- title: "Attosecond electron bunches from a nanofiber driven by Laguerre-Gaussian laser pulses"
+  image:
+  description:
+  authors: "L.X. Hu, T.P. Yu, Z.M. Sheng, J. Vieira, D.B. Zou, Y. Yin, P. McKenna, F.Q.Shao"
+  link:
+    url: "https://doi.org/10.1038/s41598-018-25421-9"
+    display: "Scientific Reports 8 7282 (2018)"
+  highlight: 0
+
+- title: "All optical dual stage laser wakefield acceleration driven by two-color laser pulses"
+  image:
+  description:
+  authors: "V.B. Pathak, H.T. Kim, J. Vieira, L.O. Silva, C.H. Nam"
+  link:
+    url: "https://doi.org/10.1038/s41598-018-30095-4"
+    display: "Scientific Reports 8, 11772 (2018)"
+  highlight: 0
+
+- title: "Mitigation of the hose instability in plasma-wakefield accelerators"
+  image: hosing-v1.jpg
+  description:
+  authors: "T. Mehrling, R.A. Fonseca, A. Osssa, J. Vieira"
+  link:
+    url: "https://doi.org/10.1103/PhysRevLett.118.174801"
+    display: "Physical Review Letters 118 174801 (2017)"
+  highlight: 1
+
+- title: "Generation and Applications of Extreme-Ultraviolet Vortices"
+  image:
+  description:
+  authors: "C. Hernández-García, J. Vieira, J. T. Mendonça, L. Rego, J. S. Román, L. Plaja, P. R. Ribic, D. Gauthier, A. Picón"
+  link:
+    url: "https://doi.org/10.3390/photonics4020028"
+    display: "Photonics 4(2) 28 (2017)"
+  highlight: 0
+
+- title: "Ponderomotive beatwave ion acceleration using twisted light"
+  image:
+  description:
+  authors: "H. Saberi, J. Vieira, L.O. Silva"
+  link:
+    url: "https://doi.org/10.1063/1.5005093"
+    display: "Physics of Plasmas 24 103131 (2017)"
+  highlight: 0
+
+- title: "Stable multi-GeV electron accelerator driven by waveform-controlled PW laser pulses"
+  image:
+  description:
+  authors: "H. T. Kim, V. B. Pathak, Ki Hong Pae, A. Lifschitz, F. Sylla, Jung Hun Shin, C. Hojbota, Seong Ku Lee, Jae Hee Sung, Hwang Woon Lee, E. Guillaume, C. Thaury, Kazuhisa Nakajima, J. Vieira, L. O. Silva, V. Malka, Chang Hee Nam"
+  link:
+    url: "https://doi.org/10.1038/s41598-017-09267-1"
+    display: "Scientific Reports 7, 10203 (2017)"
+  highlight: 0
+
+- title: "Robustness of Raman plasma amplifiers and their potential for attosecond pulse generation"
+  image:
+  description:
+  authors: "J. D. Sadler, M. Sliwa, T. Miller, M. F. Kasim, N. Ratan, L. Ceurvorst, A. Savin, R. Aboushelbaya, P. A. Norreys, D. Haberberger, A. S. Davies, S. Bucht, D. H. Froula, J. Vieira, R. A. Fonseca, L. O. Silva, R. Bingham, K. Glize, R. M.G.M. Trines"
+  link:
+    url: "https://doi.org/10.1016/j.hedp.2017.05.007"
+    display: "High Energy Density Physics 23, 212–216 (2017)"
+  highlight: 0
+
+- title: "AWAKE readiness for the study of the seeded self-modulation of a 400 GeV bunch"
+  image:
+  description:
+  authors: "P. Muggli et al (AWAKE collaboration)"
+  link:
+    url: "https://doi.org/10.1088/1361-6587/aa941c"
+    display: "Plasma Physics and Controlled Fusion 60 014046 (2017)"
+  highlight: 0
+
+- title: "High Orbital Angular Momentum Harmonics Generation"
+  image: oam-hhg-v2.jpg
+  description:
+  authors: "J. Vieira, R.Trines, E.P. Alves, R.A. Fonseca, R. Bingham, P. Norreys, L.O. Silva"
+  link:
+    url: "https://doi.org/10.1103/PhysRevLett.117.265001"
+    display: "Physical Review Letters 117 265001 (2016)"
+  highlight: 1
+
+- title: "Amplification and generation of ultra-intense twisted laser pulses via stimulated Raman scattering"
+  image: oam-amplification-v1.jpg
+  description:
+  authors: "J. Vieira, R.Trines, E.P. Alves, R.A. Fonseca, R. Bingham, P. Norreys, L.O. Silva"
+  link:
+    url: "https://doi.org/10.1038/ncomms10371"
+    display: "Nature Communications 7, 10371 (2016)"
+  highlight: 1
+
+- title: "A compact tunable polarized X-ray source based on laser-plasma helical undulators"
+  image:
+  description:
+  authors: "J. Luo, M. Chen, M. Zeng, J. Vieira, L.L. Yu, S.M. Weng, L.O. Silva, D. Jarosynski, Z.M. Sheng, J. Zhang"
+  link:
+    url: "https://doi.org/10.1038/srep29101"
+    display: "Sci. Reports 6, 29101 (2016)"
+  highlight: 0
+
+- title: "Modelling radiation emission in the transition from the classical to the quantum regime"
+  image:
+  description:
+  authors: "J. Martins, M. Vranic, T. Grismayer, J. Vieira, R. Fonseca, L. O. Silva"
+  link:
+    url: "https://doi.org/10.1088/0741-3335/58/1/014035"
+    display: "Plasma Phys. Control. Fusion 58, 014035 (2016)"
+  highlight: 0
+
+- title: "Progress of plasma wakefield self-modulation experiments at FACET"
+  image:
+  description:
+  authors: "E. Adli, V. Olsen, C. Lindstrom, P. Muggli, O. Reimmann, J. Vieira, L. Amorim, C. Clarke, S. Gessner, S. Green, M. Hogan, M. Litos, B. O’Shea, V. Yakimenko, C. Clayton, K. Marsh, W. Mori, C. Joshi, N. Vafaei-Najafabadi, O. Williams"
+  link:
+    url: "https://doi.org/10.1016/j.nima.2016.02.075"
+    display: "Nucl. Instr. & Methods A 829, 334 (2016)"
+  highlight: 0
+
+- title: "Magnetic field generation during intense laser channelling in underdense plasma"
+  image:
+  description:
+  authors: "A. Smith, G. Sarri, M. Vranic, Y. Almano, D. Doria, E. Guillaume, H. Habara, R. Heathcote, G. Hicks, Z. Najmudin, H. Nakamura, P. Norreys, S. Kar, L. Silva, K. Tanaka, J. Vieira, M. Borghesi"
+  link:
+    url: "https://doi.org/10.1063/1.4953547"
+    display: "Phys. Plasmas 23, 063121 (2016)"
+  highlight: 0
+
+- title: "Enabling Lorentz boosted frame particle-in-cell simulations of laser wakefield acceleration in quasi-3D geometry"
+  image:
+  description:
+  authors: "P. Yu, X. Xu, A. Davidson, A. Tableman, T.Dalichaouch, F. Li, M. Meyers, W. An, F. Tsung, V. Decyk, F. Fiúza, J. Vieira, R. Fonseca, W. Lu, L. Silva, W. Mori"
+  link:
+    url: "https://doi.org/10.1016/j.jcp.2016.04.014"
+    display: "J. Comp. Phys. 316, 747 (2016)"
+  highlight: 0
+
+- title: "AWAKE, The Advanced Proton Driven Plasma Wakefield Acceleration Experiment at CERN"
+  image:
+  description:
+  authors: "E. Gschwendter et al (for the AWAKE collaboration)"
+  link:
+    url: "https://doi.org/10.1016/j.nima.2016.02.026"
+    display: "Nucl. Instr. Meth. Phys. A, 829 76 (2016)"
+  highlight: 0
+
+- title: "Path to AWAKE: Evolution of the concept"
+  image:
+  description:
+  authors: "A. Caldwell et al. (for the AWAKE collaboration)"
+  link:
+    url: "https://doi.org/10.1016/j.nima.2015.12.050"
+    display: "Nucl. Instr. Meth. Phys. A, 829 3 (2016)"
+  highlight: 0
+
+- title: "Persistence of magnetic field driven by relativistic electrons in a plasma"
+  image:
+  description:
+  authors: "A. Flacco, J. Vieira, A. Lifschitz, F. Sylla, S. Kahaly, M. Veltcheva, L. O. Silva, V. Malka"
+  link:
+    url: "https://doi.org/10.1038/nphys3303"
+    display: "Nature Physics 11, 409–413 (2015)"
+  highlight: 0
+
+- title: "Generation of neutral and high-density electron-positron pair plasmas in the laboratory"
+  image:
+  description:
+  authors: "G. Sarri, K. Poder, J. Cole, W. Schumaker, A. Piazza, B. Reville, D. Doria, L. Gizzi, G. Grittani, C. Keitel, K. Krushelnick, S. Kuschel, S. Mangles, Z. Najmudin, N. Shukla, L. O. Silva, D. Symes, A. Thomas, M. Vargas, J. Vieira, M Zepf"
+  link:
+    url: "https://doi.org/10.1038/ncomms7747"
+    display: "Nature Communications 6, 6747 (2015)"
+  highlight: 0
+
+- title: "High harmonic generation in underdense plasmas by intense laser pulses with orbital angular momentum"
+  image:
+  description:
+  authors: "J. T. Mendonça, J. Vieira"
+  link:
+    url: "https://doi.org/10.1063/1.4936824"
+    display: "Phys. Plasmas 22, 123106 (2015)"
+  highlight: 0
+
+- title: "Implementation of a hybrid particle code with a PIC description in r-z and a gridless description in phi into OSIRIS"
+  image:
+  description:
+  authors: "A. Davidson, A. Tableman, W. An, F.S. Tsung, W. Lu, J. Vieira, R.A. Fonseca, L.O. Silva, W.B. Mori"
+  link:
+    url: "https://doi.org/10.1016/j.jcp.2014.10.064"
+    display: "Journal of Comp. Physics 281 1063 (2015)"
+  highlight: 0
+
+- title: "Mitigation of numerical Cerenkov radiation and instability using a hybrid finite difference-FFT Maxwell solver and a local charge conserving current deposit"
+  image:
+  description:
+  authors: "P. Yu, X. Xu, A. Tableman, V. K. Decyk, F. S. Tsung, F. Fiuza, J. Vieira, R. A. Fonseca, W. Lu, L. O. Silva, W. B. Mori"
+  link:
+    url: "https://doi.org/10.1016/j.cpc.2015.08.026"
+    display: "Computer Phys. Comm. 197 144 (2015)"
+  highlight: 0
+
+- title: "Elimination of the numerical Cerenkov instability for spectral EM-PIC codes"
+  image:
+  description:
+  authors: "P. Yu, X. Xu, V. K. Decyk, F. Fiuza, J. Vieira, F. S. Tsung, R. A. Fonseca, W. Lu, L. O. Silva, W. B. Mori"
+  link:
+    url: "https://doi.org/10.1016/j.cpc.2015.02.018"
+    display: "Computer Phys. Comm. 192, 32 (2015)"
+  highlight: 0
+
+- title: "All-Optical Radiation Reaction at 1021W/cm2"
+  image:
+  description:
+  authors: "M. Vranic, J.L. Martins, J. Vieira, R.A. Fonseca, L.O. Silva"
+  link:
+    url: "https://doi.org/10.1103/PhysRevLett.113.134801"
+    display: "Phys. Rev. Lett. 113, 134801 (2014)"
+  highlight: 0
+
+- title: "Nonlinear Laser Driven Donut Wakefields for Positron and Electron Acceleration"
+  image: positrons-oam-v2.jpg
+  description:
+  authors: "J. Vieira, J.T. Mendonça"
+  link:
+    url: "https://doi.org/10.1103/PhysRevLett.112.215001"
+    display: "Phys. Rev. Lett. 112, 215001 (2014)"
+  highlight: 1
+
+- title: "Hosing Instability Suppression in Self-Modulated Plasma Wakefields"
+  image: hosing-pdpwfa-v2.jpg
+  description:
+  authors: "J. Vieira, P. Muggli, W.B. Mori"
+  link:
+    url: "https://doi.org/10.1103/PhysRevLett.112.205001"
+    display: "Phys. Rev. Lett. 112, 205001 (2014)"
+  highlight: 1
+
+- title: "Seeding of Self-Modulation Instability of a Long Electron Bunch in a Plasma"
+  image:
+  description:
+  authors: "Y. Fang, V. Yakimenko, M. Babzien, M. Fedurin, K.P. Jusche, R. Malone, J. Vieira, W.B. Mori, P. Muggli"
+  link:
+    url: "https://doi.org/10.1103/PhysRevLett.112.045001"
+    display: "Phys. Rev. Lett. 112, 045001 (2014)"
+  highlight: 0
+
+- title: "Ion Motion in the Wake Driven by Long Particle Bunches in Plasmas"
+  image:
+  description:
+  authors: "J. Vieira, R.A. Fonseca, W.B. Mori, L.O. Silva"
+  link:
+    url: "https://doi.org/10.1063/1.4876620"
+    display: "Phys. Plasmas 21, 056705 (2014)"
+  highlight: 0
+
+- title: "Self-modulation Instability of Ultra-relativistic Particle Bunches with Finite Rise Times"
+  image:
+  description:
+  authors: "J. Vieira, L.D. Amorim, Y. Fang, W.B. Mori, P. Muggli, L.O. Silva"
+  link:
+    url: "https://doi.org/10.1088/0741-3335/56/8/084014"
+    display: "Plasma Phys. Control. Fusion 56, 085014 (2014)"
+  highlight: 0
+
+- title: "The Effect of Plasma Radius and Profile on the Development of Self-modulation Instability"
+  image:
+  description:
+  authors: "Y. Fang, L.D. Amorim, J. Vieira, W.B. Mori, P. Muggli"
+  link:
+    url: "https://doi.org/10.1063/1.4872328"
+    display: "Phys. Plasmas 21, 056703 (2014)"
+  highlight: 0
+
+- title: "Electron Trapping and Acceleration by the Plasma Wakefield of a Self-modulating Proton Beam"
+  image:
+  description:
+  authors: "K.V. Lotov, A.P. Sosedkin, A.V. Petrenko, L.D. Amorim, J. Vieira, R.A. Fonseca, L.O. Silva, E. Gschwendtner, P. Muggli"
+  link:
+    url: "https://doi.org/10.1063/1.4904365"
+    display: "Phys. Plasmas 21, 123116 (2014)"
+  highlight: 0
+
+- title: "Donut Wakefields Generated by Intense Laser Pulses with Angular Orbital Momentum"
+  image:
+  description:
+  authors: "J.T. Mendonça, J. Vieira"
+  link:
+    url: "https://doi.org/10.1063/1.4868967"
+    display: "Phys. Plasmas 21, 033107 (2014)"
+  highlight: 0
+
+- title: "Modeling of Laser Wakefield Acceleration in Lorentz Boosted Frame Using EM-PIC Code with Spectral Solver"
+  image:
+  description:
+  authors: "P. Yu, X. Xu, V.K. Decyk, W. An, J. Vieira, F.S. Tsung, R.A. Fonseca, W. Lu, L.O. Silva, W.B. Mori"
+  link:
+    url: "https://doi.org/10.1016/j.jcp.2014.02.016"
+    display: "J. Comp. Phys. 266, 124-138 (2014)"
+  highlight: 0
+
+- title: "Laser Wakefield Accelerator Based Light Sources: Potential Applications and Requirements"
+  image:
+  description:
+  authors: "F. Albert, A.G.R. Thomas, S.P.D. Mangles, S. Banerjee, S. Corde, A. Flacco, M. Litos, D. Neely, J. Vieira, Z. Najmudin, R. Bingham, C. Joshi, T. Katsouleas"
+  link:
+    url: "https://doi.org/10.1088/0741-3335/56/8/084015"
+    display: "Plasma Phys. Control. Fusion 56, 084015 (2014)"
+  highlight: 0
+
+- title: "Proton-Driven Plasma Wakefield Acceleration: A Path to the Future of High-Energy Particle Physics"
+  image:
+  description:
+  authors: "R. Assmann et al. (AWAKE Collaboration)"
+  link:
+    url: "https://doi.org/10.1088/0741-3335/56/8/084013"
+    display: "Plasma Phys. Control. Fusion 56, 084013 (2014)"
+  highlight: 0
+
+- title: "Exploiting Multi-Scale Parallelism for Large Scale Numerical Modelling of Laser Wakefield Accelerators"
+  image:
+  description:
+  authors: "R.A. Fonseca, J. Vieira, F. Fiúza, A. Davidson, F.S. Tsung, W.B. Mori, L.O. Silva"
+  link:
+    url: "https://doi.org/10.1088/0741-3335/55/12/124011"
+    display: "Plasma Phys. Control. Fusion, 55 124011 (2013)"
+  highlight: 0
+
+- title: "Numerical Instability Due to Relativistic Plasma Drift in EM-PIC Simulations"
+  image:
+  description:
+  authors: "X.L. Xu, P. Yu, S.F. Martins, F.S. Tsung, V.K. Decyk, J. Vieira, R.A. Fonseca, W. Lu, L.O. Silva, W.B. Mori"
+  link:
+    url: "https://doi.org/10.1016/j.cpc.2013.07.003"
+    display: "Computer Phys. Comm. 184, 2503-2514 (2013)"
+  highlight: 0
+
+- title: "Increasing Energy Coupling into Plasma Waves by Tailoring the Laser Radial Focal Spot Distribution in a Laser Wakefield Accelerator"
+  image:
+  description:
+  authors: "G. Genoud, M.S. Bloom, J. Vieira, M. Burza, Z. Najmudin, A. Persson, L.O. Silva, K. Svensson, C.G. Wahlstrom, S.P.D. Mangles"
+  link:
+    url: "https://doi.org/10.1063/1.4810795"
+    display: "Phys. Plasmas 20, 064501 (2013)"
+  highlight: 0
+
+- title: "Magnetically Assisted Self-Injection and Radiation Generation for Plasma-Based Acceleration"
+  image:
+  description:
+  authors: "J. Vieira, J.L. Martins, V.B. Pathak, R.A. Fonseca, W.B. Mori, L.O. Silva"
+  link:
+    url: "https://doi.org/10.1088/0741-3335/54/12/124044"
+    display: "Plasma Phys. Control. Fusion 12, 124044 (2012)"
+  highlight: 0
+
+- title: "Ion Motion in Self-Modulated Plasma Wakefield Accelerators"
+  image: ion-motion-v2.jpg
+  description:
+  authors: "J. Vieira, R.A. Fonseca, W.B. Mori, L.O. Silva"
+  link:
+    url: "https://doi.org/10.1103/PhysRevLett.109.145005"
+    display: "Phys. Rev. Lett. 109, 145005 (2012)"
+  highlight: 1
+
+- title: "Transverse Self-Modulation of Ultra-Relativistic Lepton Beams in the Plasma Wakefield Accelerator"
+  image:
+  description:
+  authors: "J. Vieira, Y. Fang, W.B. Mori, L.O. Silva, P. Muggli"
+  link:
+    url: "https://doi.org/10.1063/1.4725425"
+    display: "Phys. Plasmas 19, 063105 (2012)"
+  highlight: 0
+
+- title: "Influence of Realistic Parameters on State-of-the-Art Laser Wakefield Accelerator Experiments"
+  image:
+  description:
+  authors: "J. Vieira, S.F. Martins, F. Fiúza, C.K. Huang, W.B. Mori, S.P.D. Mangles, S. Kneip, S. Nagel, Z. Najmudin, L.O. Silva"
+  link:
+    url: "https://doi.org/10.1088/0741-3335/54/5/055010"
+    display: "Plasma Phys. Control. Fusion 54, 055010 (2012)"
+  highlight: 0
+
+- title: "Effect of the Frequency Chirp on Laser Wakefield Acceleration"
+  image:
+  description:
+  authors: "V.B. Pathak, J. Vieira, R.A. Fonseca, L.O. Silva"
+  link:
+    url: "https://doi.org/10.1088/1367-2630/14/2/023057"
+    display: "New J. Phys. 14, 023057 (2012)"
+  highlight: 0
+
+- title: "Proposed Demonstration of an Experiment of Proton-Driven Plasma Wakefield Based on CERN SPS"
+  image:
+  description:
+  authors: "G. Xia, R. Assmann, R.A. Fonseca, C.K. Huang, W.B. Mori, L.O. Silva, J. Vieira, F. Zimmermann, P. Muggli"
+  link:
+    url: "https://doi.org/10.1017/S0022377812000086"
+    display: "J. of Plasma Phys. 78, 347-353 (2012)"
+  highlight: 0
+
+- title: "Simulations of Efficient Laser Wakefield Accelerators from 1 to 100 GeV"
+  image:
+  description:
+  authors: "M. Tzoufras, C. Huang, J.H. Cooley, F.S. Tsung, J. Vieira, W.B. Mori"
+  link:
+    url: "https://doi.org/10.1017/S0022377812000232"
+    display: "J. of Plasma Phys. 78, 401-412 (2012)"
+  highlight: 0
+
+- title: "Characterization of Transverse Beam Emittance of Electrons from a Laser-Plasma Wakefield Accelerator in the Bubble Regime Using Betatron X-Ray Radiation"
+  image:
+  description:
+  authors: "S. Kneip, C. McGuffey, J.L. Martins, M.S. Bloom, V. Chvykov, F. Dollar, R. Fonseca, S. Jolly, G. Kalintchenko, K. Krushelnick, A. Maksimchuk, S.P.D. Mangles, Z. Najmudin, C.A.J. Palmer, K. Ta Phuoc, W. Schumaker, L.O. Silva, J. Vieira, V. Yanovsky, A.G.R. Thomas"
+  link:
+    url: "https://doi.org/10.1103/PhysRevSTAB.15.021302"
+    display: "Phys. Rev. ST Accel. Beams 15, 021302 (2012)"
+  highlight: 0
+
+- title: "Magnetic Control of Particle Injection in Plasma-Based Accelerators"
+  image: bfield-injection-v2.jpg
+  description:
+  authors: "J. Vieira, S.F. Martins, V.B. Pathak, R.A. Fonseca, W.B. Mori"
+  link:
+    url: "https://doi.org/10.1103/PhysRevLett.106.225001"
+    display: "Phys. Rev. Lett. 106, 225001 (2011)"
+  highlight: 1
+
+- title: "Polarized Beam Conditioning in Plasma-Based Acceleration"
+  image:
+  description:
+  authors: "J. Vieira, C. Huang, W.B. Mori, L.O. Silva"
+  link:
+    url: "https://doi.org/10.1103/PhysRevSTAB.14.071303"
+    display: "Phys. Rev. ST-AB 14, 071303 (2011)"
+  highlight: 0
+
+- title: "All-Optical Steering of Laser-Wakefield-Accelerated Electron Beams"
+  image:
+  description:
+  authors: "A. Popp, J. Vieira, J. Osterhoff, Zs. Major, R. Horlein, M. Fuchs, R. Wingartner, T.P. Rowlands-Rees, M. Marti, R.A. Fonseca, S.F. Martins, L.O. Silva, S.M. Hooker, F. Krausz, F. Gruner, S. Karsh"
+  link:
+    url: "https://doi.org/10.1103/PhysRevLett.105.215001"
+    display: "Phys. Rev. Lett. 105, 215001 (2010)"
+  highlight: 0
+
+- title: "Onset of Self-Steepening of Intense Laser Pulses in Plasmas"
+  image:
+  description:
+  authors: "J. Vieira, F. Fiúza, L.O. Silva, M. Tzoufras, W.B. Mori"
+  link:
+    url: "https://doi.org/10.1088/1367-2630/12/4/045025"
+    display: "New J. of Phys. 12, 045025 (2010)"
+  highlight: 0
+
+- title: "Study of Near-GeV Acceleration of Electrons in a Nonlinear Plasma Wave Driven by a Self-Guided Laser Pulse"
+  image:
+  description:
+  authors: "S. Kneip, S.R. Nagel, S.F. Martins, S.P.D. Mangles, C. Bellei, R.J. Clarke, N. Delerue, E.J. Divall, G. Doucas, K. Ertel, F. Fiúza, R.A. Fonseca, P. Foster, S.J. Hawkes, C.J. Hawkes, C.J. Hooker, K. Krushelnick, W.B. Mori, C.A.J. Palmer, K. Ta Phuoc, P.P. Rajeev, J. Schreiber, M.J.V. Streeter, D. Urner, J. Vieira, L.O. Silva, Z. Najmudin"
+  link:
+    url: "https://doi.org/10.1088/0741-3335/53/1/014008"
+    display: "Plasma Phys. and Control. Fusion 53, 014008 (2010)"
+  highlight: 0
+
+- title: "Modeling Laser Wakefield Accelerator Experiments with Ultrafast Particle-in-Cell Simulations in Boosted Frames"
+  image:
+  description:
+  authors: "S.F. Martins, R.A. Fonseca, J. Vieira, L.O. Silva, W. Lu, W.B. Mori"
+  link:
+    url: "https://doi.org/10.1063/1.3358139"
+    display: "Phys. Plasmas 17, 056705 (2010)"
+  highlight: 0
+
+- title: "Near GeV Acceleration of Electrons by a Nonlinear Plasma Wave Driven by a Self-Guided Laser Pulse"
+  image:
+  description:
+  authors: "S. Kneip, S.R. Nagel, S.F. Martins, S.P.D. Mangles, C. Bellei, R.J. Clarke, N. Delerue, E.J. Divall, G. Doucas, K. Ertel, F. Fiúza, R.A. Fonseca, P. Foster, S.J. Hawkes, C.J. Hawkes, C.J. Hooker, K. Krushelnick, W.B. Mori, C.A.J. Palmer, K. Ta Phuoc, P.P. Rajeev, J. Schreiber, M.J.V. Streeter, D. Urner, J. Vieira, L.O. Silva, Z. Najmudin"
+  link:
+    url: "https://doi.org/10.1103/PhysRevLett.103.035002"
+    display: "Phys. Rev. Lett. 103, 035002 (2009)"
+  highlight: 0
+
+- title: "Laser Electron Acceleration with 10 PW Lasers"
+  image:
+  description:
+  authors: "L.O. Silva, F. Fiúza, R.A. Fonseca, J.L. Martins, S.F. Martins, J. Vieira, C. Huang, M. Tzoufras, W.B. Mori"
+  link:
+    url: "https://doi.org/10.1016/j.crhy.2009.03.012"
+    display: "C.R. Physique (2009)"
+  highlight: 0
+
+- title: "Beam Loading by Electrons in Nonlinear Plasma Wakes"
+  image:
+  description:
+  authors: "M. Tzoufras, W. Lu, F.S. Tsung, C. Huang, W.B. Mori, T. Katsouleas, J. Vieira, R.A. Fonseca, L.O. Silva"
+  link:
+    url: "https://doi.org/10.1063/1.3118628"
+    display: "Phys. Plasmas 16, 056705 (2009)"
+  highlight: 0
+
+- title: "Prospects for All-Optical Ultrafast Muon Acceleration"
+  image:
+  description:
+  authors: "F. Peano, J. Vieira, R. Mulas, G. Coppa, R. Bingham, L.O. Silva"
+  link:
+    url: "https://doi.org/10.1088/0741-3335/51/2/024006"
+    display: "Plasma Phys. Control. Fusion 51, 024006 (2009)"
+  highlight: 0
+
+- title: "Beam Loading in the Nonlinear Regime of Plasma-Based Acceleration"
+  image:
+  description:
+  authors: "M. Tzoufras, W. Lu, F.S. Tsung, C. Huang, W.B. Mori, T. Katsouleas, J. Vieira, R.A. Fonseca, L.O. Silva"
+  link:
+    url: "https://doi.org/10.1103/PhysRevLett.101.145002"
+    display: "Phys. Rev. Lett. 101, 145002 (2008)"
+  highlight: 0
+
+- title: "One-to-One Full-Scale Simulations of Laser-Wakefield Acceleration Using QuickPIC"
+  image:
+  description:
+  authors: "J. Vieira, F. Fiúza, R.A. Fonseca, L.O. Silva, C.K. Huang, W. Lu, M. Tzoufras, F.S. Tsung, V. Decyk, W.B. Mori, J. Cooley, T. Antonsen"
+  link:
+    url: "https://doi.org/10.1109/TPS.2008.927429"
+    display: "IEEE Trans. Plasma Sci. 36, 1722 (2008)"
+  highlight: 0
+
+- title: "Three-Dimensional Structure of the Laser Wakefield Accelerator in the Blowout Regime"
+  image:
+  description:
+  authors: "J. Vieira, S.F. Martins, F. Fiúza, R.A. Fonseca, L.O. Silva, C. Huang, W. Lu, M. Tzoufras, F. Tsung, W.B. Mori, J. Cooley, T. Antonsen"
+  link:
+    url: "https://doi.org/10.1109/TPS.2008.922930"
+    display: "IEEE Trans. Plasma Sci. 36, 1124 (2008)"
+  highlight: 0
+
+- title: "All-Optical Trapping and Acceleration of Heavy Particles"
+  image:
+  description:
+  authors: "F. Peano, J. Vieira, R.A. Fonseca, L.O. Silva, R. Mulas, G. Coppa"
+  link:
+    url: "https://doi.org/10.1088/1367-2630/10/3/033028"
+    display: "New J. of Phys. 10, 033028 (2008)"
+  highlight: 0
+
+- title: "Direct Acceleration of Ions with Variable Frequency Lasers"
+  image:
+  description:
+  authors: "F. Peano, J. Vieira, R.A. Fonseca, R. Mulas, G. Coppa, L.O. Silva"
+  link:
+    url: "https://doi.org/10.1109/TPS.2008.926877"
+    display: "IEEE Trans. Plasma Sci. 36, 1857 (2008)"
+  highlight: 0
+
+- title: "Direct Observation of Betatron Oscillations in a Laser-Plasma Electron Accelerator"
+  image:
+  description:
+  authors: "Y. Glinec, J. Faure, A. Lifshitz, J.M. Vieira, R.A. Fonseca, L.O. Silva, V. Malka"
+  link:
+    url: "https://doi.org/10.1209/0295-5075/81/64001"
+    display: "Europhysics Letters 81, 64001 (2008)"
+  highlight: 0
+
+- title: "Generating Multi-GeV Electron Bunches Using Single Stage Laser Wakefield Acceleration in a 3D Nonlinear Regime"
+  image:
+  description:
+  authors: "W. Lu, M. Tzoufras, C. Joshi, F.S. Tsung, W.B. Mori, J. Vieira, R.A. Fonseca, L.O. Silva"
+  link:
+    url: "https://doi.org/10.1103/PhysRevSTAB.10.061301"
+    display: "Phys. Rev. ST-AB 10, 061301 (2007)"
+  highlight: 0
+
+- title: "Sheet Crossing and Wave Breaking in the Laser Wakefield Accelerator"
+  image:
+  description:
+  authors: "J. Vieira, R.A. Fonseca, L.O. Silva, W. Lu, M. Tzoufras, F.S. Tsung, W.B. Mori"
+  link:
+    url: "https://doi.org/10.1142/S0217979207042227"
+    display: "Int. Journal Mod. Phys. B 21, 439 (2007)"
+  highlight: 0
+
+- title: "Simulation of Monoenergetic Electron Generation via LWFA for 5 to 25TW Lasers"
+  image:
+  description:
+  authors: "F.S. Tsung, W. Lu, M. Tzoufras, W.B. Mori, C. Joshi, J.M. Vieira, R.A. Fonseca, L.O. Silva"
+  link:
+    url: "https://doi.org/10.1063/1.2198535"
+    display: "Phys. Plasmas 13, 056708 (2006)"
+  highlight: 0
+
+- title: "Evidence of Photon Acceleration by Laser Wakefields"
+  image:
+  description:
+  authors: "C.D. Murphy, R. Trines, J. Vieira, A. Reitsma, R. Bingham, J. Collier, E. Divall, P. Foster, C. Hooker, A. Langley, P. Norreys, R.A. Fonseca, F. Fiúza, L.O. Silva, J.T. Mendonça, W.B. Mori, J.G. Gallacher, R. Gallacher, R. Viskup, D.A. Jarosynsky, S.P.D. Mangles, A.G.R. Thomas, K. Krushelnick, Z. Najmudin"
+  link:
+    url: "https://doi.org/10.1063/1.2178650"
+    display: "Phys. Plasmas 13, 033108 (2006)"
+  highlight: 0
+
+- title: "Plasma Channels Produced by a Laser-Triggered High-Voltage Discharge"
+  image:
+  description:
+  authors: "N.C. Lopes, G. Figueira, L.O. Silva, J.M. Dias, R. Fonseca, L. Cardoso, C. Russo, C. Carias, G. Mendes, J. Vieira, J.T. Mendonça"
+  link:
+    url: "https://doi.org/10.1103/PhysRevE.68.035402"
+    display: "Phys. Rev. E 68, 035402 (2003)"
+  highlight: 0

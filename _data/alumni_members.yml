@@ -1,0 +1,65 @@
+- name: Bernardo Malaca
+  #photo: verdoes.jpg
+  duration: PhD (2024). MSc (2018).
+  Right after: HPC User Support, <a href="https://pt.linkedin.com/company/incd-pt?trk=public_profile_experience-item_profile-section-card_subtitle-click" CNCA - Centro Nacional de Computação Avançada</a>
+  email: bernardo.malaca@tecnico.ulisboa.pt
+  number_educ: 2
+  education1: <a href="https://scholar.tecnico.ulisboa.pt/api/records/a22rIMG8JFRQts9awmibPoiQVxLGrwiI61DZ/file/ec057998227b98c81946b1a6f1ce43694e8084107d1a60534ad923a3b5fdc374.pdf"> Superradiant and coherent radiation emission in plasma accelerator light sources</a> (PhD)
+  education2: <a href="https://scholar.tecnico.ulisboa.pt/api/records/EzVZMhXbRqKspXCcnw1xMTxu927xIln33De-/file/e2437e3d5e623cc3021cc2c2dbaa205b6b5cbb463681ccba2a612a4eadb471fa.pdf"> Machine learning controlled plasma based acceleration</a> (MSc)
+  education3:
+  education4:
+
+- name: Miguel Pardal
+  #photo: verdoes.jpg
+  duration: PhD (2024). MSc (2018). 
+  Right after: Computational Physicist, <a href="https://www.ipma.pt/pt/index.html" Instituto Português do Mar e da Atmosfera</a> 
+  email: miguel.pardal@tecnico.ulisboa.pt
+  number_educ: 2
+  education1: <a href="https://scholar.tecnico.ulisboa.pt/api/records/36fo5rqb8oTkTs3jHVZQMBV16i7YR-M_D3dG/file/70989d05859314a3dc221acc334a011ab0aad1ee6d3f35b12e6df5a87695f682.pdf"> Plasma light sources &#58; a spatiotemporal analysis</a> (PhD)
+  education2: <a href="https://scholar.tecnico.ulisboa.pt/api/records/FiLTxrquScHidq6_Lwiv_fkh7Qrs74_HPhMZ/file/3e67ed50a689d1c40c2723b3daf2d3a2c4f35cfaac56f3a78005400fcc3a0ba7.pdf"> Modelling ultra-high frequency x-ray emission in particle in cell codes</a> (MSc)
+  education3:
+  education4:
+
+- name: Mariana Moreira
+  #photo: verdoes.jpg
+  duration: PhD (2024). MSc (2017).  
+  Right after: <a href="https://home.cern" CERN </a> fellow
+  email: mariana.moreira@tecnico.ulisboa.pt
+  number_educ: 2
+  education1: <a href="https://scholar.tecnico.ulisboa.pt/api/records/khrnOlCwDjQ9fPKhoNScNdST2t-WZysH1tIE/file/630901772cca80876f2f5bbe8b5020a720cbab51b71a4de6a39a4f3ae7c7c5b8.pdf"> Properties of the hosing and self-modulation instabilities of long particle beams in overdense plasma</a> (PhD)
+  education2: <a href="https://scholar.tecnico.ulisboa.pt/api/records/qR4HmngLW_rlsnOuGTPUZkmxTdeccYtFUcLh/file/45f5012e066787fd74959609d956c9bebb2eb63e3cfe276d0b494876f9395f8e.pdf"> Influence of proton bunch and plasma parameters on the AWAKE experiment.</a> (MSc)
+  education3:
+  education4:
+
+- name: Anton Helm
+  #photo: verdoes.jpg
+  duration: PhD (2021). Co-supervisor.
+  Right after: <a href="https://par-tec.com" ParTec AG </a>, Berlin, Germany
+  email:
+  number_educ: 1
+  education1: <a href="https://scholar.tecnico.ulisboa.pt/api/records/BvQcVu0w7IB5IRWNGSatgvzFe6GQZMgcMva0/file/18c37a175f1eabd9452bb6b4e4fdf0c0f0d7f91181c41b848ba430272d79a217.pdf"> Ultra-fast plasma based acceleration modelling&amp;#58; on reduced algorithms to predict the future generation of particle accelerators frontier</a> (PhD)
+  education2:
+  education3:
+  education4:
+
+- name: Nitin Shukla
+  #photo: verdoes.jpg
+  duration: PhD (2019). Co-supervisor.
+  Right after: <a href="https://www.cineca.it/it" HPC Scientific Application Engineer at CINECA </a>, Italy
+  email:
+  number_educ: 1
+  education1: <a href="https://scholar.tecnico.ulisboa.pt/api/records/l7qYr_r1dfh6MUBrg05YcKQEaN2fkiMFL2_W/file/99a8bb74e564c2ca1467f0ef10f1ce06f7b7cf9a748cfec314297bfd6405655c.pdf"> Theoretical and numerical studies of magnetic field generation in plasma astrophysics</a> (PhD)
+  education2:
+  education3:
+  education4:
+
+- name: Ligia Diana Amorim
+  #photo: verdoes.jpg
+  duration: PhD (2018). MSc (2012). 
+  Right after: Postdoctoral Researcher, <a href="https://you.stonybrook.edu/plasmaaccelerators/" Plasma Accelerator Group</a>, <a href="https://www.stonybrook.edu" Stoney Brook University </a>
+  email: ligia.amorim@tecnico.ulisboa.pt
+  number_educ: 1
+  education1: <a href="https://scholar.tecnico.ulisboa.pt/api/records/bNQ3L5pUApCMIm8yNwZZvKOjS9dgQv_TNZkX/file/fee68f843ccebd8ee8649716c59c38b317680bb5b1e111c4fe7446112283b155.pdf"> Controlled plasma wakefield acceleration for particle acceleration towards the energy frontier</a> (PhD)
+  education2:
+  education3:
+  education4:
