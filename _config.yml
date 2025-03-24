@@ -5,6 +5,13 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
 
+title: "Jorge Vieira"
+description: "I am a computational and theoretical plasma physicist. My primary research interests lies in the area of plasma photonics, structured light, and applications of laser and beam plasma interactions to compact plasma accelerators and light sources using PIC simulations."
+author: "Jorge Vieira"
+
+plugins:
+  - jekyll-seo-tag
+
 # Site settings
 title: Plasma Photonics Team
 email: your-email@domain.com
@@ -26,8 +33,6 @@ highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
-
-
 
 # Markdown Processing
 kramdown:
