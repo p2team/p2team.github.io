@@ -55,8 +55,6 @@ The P2 Team explores the frontier of plasma physics and optics, focusing on the 
 
 More description here [IST](http://tecnico.ulisboa.pt). See [Research](research).
 
-**We are looking for new students** {{ site.baseurl }}/vacancies) **!**
-
 <figure class="fourth" style="display: flex; justify-content: center; gap: 10px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ist-logo.jpg" style="width: 210px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/golp-logo.png" style="width: 210px">
