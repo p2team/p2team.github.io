@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p2team.github.io/sitemap.xml
