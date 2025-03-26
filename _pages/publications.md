@@ -2,7 +2,8 @@
 title: "Plasma Photonics Team - Publications"
 layout: gridlay
 excerpt: "P2 Team @ GoLP -- Publications."
-sitemap: false
+sitemap:
+  priority: 1
 permalink: /publications/
 ---
 

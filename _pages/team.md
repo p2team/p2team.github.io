@@ -2,7 +2,8 @@
 title: "Plasma Photonics Team - Team"
 layout: gridlay
 excerpt: "P2 Team @ GoLP --  Team members"
-sitemap: false
+sitemap:
+  priority: 1
 permalink: /team/
 ---
 

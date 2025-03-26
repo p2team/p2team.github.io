@@ -2,7 +2,9 @@
 title: "Plasma Photonics (P2) Team - Home"
 layout: homelay
 excerpt: "@Group for Lasers and Plasmas (GoLP/IST)."
-sitemap: false
+sitemap:
+  priority: 1
+date: 2025-01-26
 permalink: /
 ---
 

@@ -2,7 +2,8 @@
 title: "Plasma Photonics Team - Vacancies"
 layout: textlay
 excerpt: "P2 Team @ GoLP -- Openings"
-sitemap: false
+sitemap:
+  priority: 1
 permalink: /vacancies
 ---
 

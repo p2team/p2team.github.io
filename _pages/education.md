@@ -2,7 +2,8 @@
 title: "Plasma Photonics Team - Research"
 layout: textlay
 excerpt: "P2 Team @ GoLP -- Research"
-sitemap: false
+sitemap:
+  priority: 0.5
 permalink: /education/
 ---
 
