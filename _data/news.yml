@@ -1,3 +1,10 @@
+- date: 12. May 2025
+  headline: Our paper on propagation-invariant optical pulses is out on [Optics Letters](https://doi.org/10.1364/OL.562773).
+  fullstory: Propagation-invariant optical pulses have a peak intensity that travels at an arbitrary, tunable velocity while maintaining their spatiotemporal profile. We have shown that their structure is universal, thereby combining a plethora of previously disconnected descriptions. These pulses may be used in processes where phase-locking and an accurate control of the velocity of radiation intensity is key.
+  number_photo: 1
+  photo: Opt-Lett-Almeida-2025.jpg
+  photo_caption: Even though the whole envelope of the electromagnetic field travels at c, the focus, i.e., the peak intensity moves at a constant velocity v<sub>f</sub> that can be arbitrarily chosen.
+
 - date: 9. May 2025
   headline: Jorge Vieira gave a Seminar at the EuPRAXIA Virtual Seminar Series.
   fullstory: The [seminar](https://agenda.infn.it/event/45900/page/10216-achieving-superradiant-plasma-accelerator-based-light-sources-with-collective-effects) focused on the recent [quasiparticle light source concept](https://www.nature.com/articles/s41566-023-01311-z) (which may bring temporal coherence and superradiance to plasma accelerator-based light sources). This was the first seminar of the [EuPRAXIA Virtual Seminar Series](https://agenda.infn.it/event/45900/).
