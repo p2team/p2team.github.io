@@ -1,3 +1,8 @@
+- date: 14. May 2025
+  headline: Jorge Vieira gave a Seminar at the Center of Physics and Engineering of Advanced Materials [(CeFEMA)](https://cefema.tecnico.ulisboa.pt/people/joao-seixas/).
+  fullstory: The talk was an overview of plasma-based accelerators and their light sources, the challenges for high energy physics, and also new oportunities using structured light pulses (e.g., with orbital angular momentum and with a flying focus), and our recent work on radiation from [quasiparticles](https://www.nature.com/articles/s41566-023-01311-z).
+  number_photo: 0
+
 - date: 12. May 2025
   headline: Our paper on propagation-invariant optical pulses is out on [Optics Letters](https://doi.org/10.1364/OL.562773).
   fullstory: Propagation-invariant optical pulses have a peak intensity that travels at an arbitrary, tunable velocity while maintaining their spatiotemporal profile. We have shown that their structure is universal, thereby combining a plethora of previously disconnected descriptions. These pulses may be used in processes where phase-locking and an accurate control of the velocity of radiation intensity is key.
