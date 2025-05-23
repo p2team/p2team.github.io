@@ -1,3 +1,10 @@
+- date: 23. May 2025
+  headline: Structured-light review paper is out on [Optica](https://doi.org/10.1364/OPTICA.558754).
+  fullstory: This paper reviews the field of structured light in laser-plasma interactions at ultra-high intensity, and its various applications from plasma-based accelerators, their light sources and magnetic field generation to strong field quantum-electro-dynamics (QED).
+  number_photo: 1
+  photo: Optica-review-2025.jpg
+  photo_caption: Construction of an OAM beam from a minimalistic definition of structured light. (a) Interference of three plane waves with differ- ent k wave vectors and phases leading to a lattice with a vortex phase. (b) Extension to the case of 20 plane waves, resulting in a well-defined donut beam carrying OAM. Taken from our paper [here](https://doi.org/10.1364/OPTICA.558754).
+
 - date: 14. May 2025
   headline: Jorge Vieira gave a Seminar at the Center of Physics and Engineering of Advanced Materials [(CeFEMA)](https://cefema.tecnico.ulisboa.pt/people/joao-seixas/).
   fullstory: The talk was an overview of plasma-based accelerators and their light sources, the challenges for high energy physics, and also new oportunities using structured light pulses (e.g., with orbital angular momentum and with a flying focus), and our recent work on radiation from [quasiparticles](https://www.nature.com/articles/s41566-023-01311-z).
