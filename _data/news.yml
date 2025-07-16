@@ -1,3 +1,10 @@
+- date: 13. July 2025
+  headline: Our team hosted the [EuPRAXIA-DN Training Camp II Science](https://agenda.infn.it/event/46472/) between 13-15 July at IST.
+  fullstory: The second EuPRAXIA-Doctoral Network training camp was held at IST during July 13-15 2025. The camp included talks on advanced accelerator technologies, and discussed next-generation light sources. The camp also included talks by EuPRAXIA-DN fellow and P2-team member BT (nonlinear Thomson scattering), by CB (muon acceleration using laser pulses with a flying focus), RA (Thomson scattering using structured light), and a poster by CW (magnetic field generation and photon deceleration from azimuthally polarised beams) and XW (Zernike polynomial mode expansion in PIC codes). [GoLP](http://golp.ist.utl.pt) members RF, MV, and DL gave talks about HPC for plasma accelerators, direct laser acceleration, and machine-learning optimized laser plasma accelerators. Our collaborator [Marco Piccardo](https://mplab.tecnico.ulisboa.pt) also presented a talk on meta-surfaces for structured light. 
+  number_photo: 1
+  photo: EuPRAXIA-DN-IST.jpg
+  photo_caption: EuPRAXIA-DN Camp II Science group photo.
+
 - date: 23. May 2025
   headline: Our structured-light review paper is out on [Optica](https://doi.org/10.1364/OPTICA.558754).
   fullstory: P2 team member JV is a co-author of a [review](https://doi.org/10.1364/OPTICA.558754) article about structured light in laser-plasma interactions at ultra-high intensity, and its various applications from plasma-based accelerators, their light sources and magnetic field generation to strong field quantum-electro-dynamics (QED).
