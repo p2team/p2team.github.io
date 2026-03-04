@@ -1,3 +1,9 @@
+- date: 3. March 2026
+  headline: Our paper [Plasma Rotation driven by lasers with zero angular momentum](https://doi.org/10.1017/S0022377825101062) is out in Journal of Plasma Physics.  
+  fullstory: P2-team alumnus Camilla Willim is the first author of this paper. The paper shows, with theory and PIC simulations in Osiris, that azimuthaly polarised lasers can drive a mechanical rotation of the plasma, once laser frequency downshifts become significant during propagation. Because lasers with azimuthal polarisation carry zero angular momentum, we found that the angular momentum carried by the plasma is compensated by the angular momentum carried by the self-consistently generated electric and magnetic fields in plasma. Our results then show that the laser polarisation can be used as a knob to control the motion of mater, at relativistic intensities. This control can benefit applications related to plasma accelerators and light sources. Click [here](https://www.linkedin.com/feed/update/urn:li:activity:7434263000821284865/?originTrackingId=3VEhw%2F3wv0Q8JHhgN1ndvw%3D%3D) for additional info. 
+  number_photo: 1
+  photo: plasma-rotation.png
+
 - date: 23. January 2026
   headline: Rafael Almeida successfuly defended his work for his mid-term PhD evaluation 
   fullstory: P2-team member Rafael Almeida gave a talk entitled "From advanced plasma-based accelerators to superradiant light sources with arbitrarily structured light" for his mid-term PhD evaluation committee. Rafael's work focuses on structured light and its applications to radiation emission in laser-matter interactions. The commitee was composed by Prof. Mario Silveirinha (Department of Electrical Engineering at IST) e by Prof. Mathew Edwards (Department of Mechanical Engineering, Stanford University).
