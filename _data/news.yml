@@ -9,6 +9,7 @@
   fullstory: P2-team member Chiara Badiali is the leading author of this paper that shows, with theory and PIC simulations using Osiris, that spacetime wave-packets with a flying focus combined with a suitably tailored axial plasma density profile can drive a laser wakefield accelerator suitable to accelerate particles with short life-times (e.g., muons, kaons, pions) to relativistic energies before decaying. This work shows that a flying focus laser-driver can excite a nearly non-evolving plasma wave in an uniform plasma, moving with a constant phase-velocity set by laser focal velocity. A laser with a sub-luminal focal plane is ideal to trap these particles in the plasma. The acceleration can then be prolongued beyond the usual dephasing length by tailoing the plasma density. 
   number_photo: 1
   photo: muons.png
+  photo_caption: Illustration of a flying focus laser pulse (red and blue) driving a plasma Wakefield (white), in which a muon particle beam (green) is trapped and accelerated.
 
 - date: 3. March 2026
   headline: Our paper [Plasma Rotation driven by lasers with zero angular momentum](https://doi.org/10.1017/S0022377825101062) is out in Journal of Plasma Physics.  
