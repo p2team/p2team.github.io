@@ -1,3 +1,10 @@
+- name: Rodrigo Silva
+  photo: Rodrigo.png
+  info: Junior Researcher
+  email: rodrigo.a.silva@tecnico.ulisboa.pt
+  number_educ: 1
+  education1: BSc in Physics Engineering, IST - Lisboa, Portugal
+
 - name: Duarte Faustino
   photo: bio-photo.jpg
   info: Junior Researcher
